@@ -1,2 +1,5 @@
 # Simulador_Conta_Banco
- Sistema para simular interações de conta de banco
+ Proejto para fixar meus conhecimentos.
+ Sistema para simular interações com um sistema eletrônico 
+
+ Conforme avanço técnico irei acrescentar mais funcionalidades.  
